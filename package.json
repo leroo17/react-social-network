@@ -1,6 +1,7 @@
 {
   "name": "react-social",
   "version": "0.1.0",
+  "homepage":  "http://leroo17.github.io/react-social-network",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
